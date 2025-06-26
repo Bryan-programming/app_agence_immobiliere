@@ -1,0 +1,5 @@
+Bonjour,
+
+Pour lancer le serveur MySQL qui va interagir avec l'application python, assurez vous d'avoir installé Docker sur votre appareil et veillez à taper la commande << docker compose up>> dans votre invite de commande dans le répertoire ou se trouve le fichier .sql et .yml (dans le dossier Serveur_MySql_Docker).
+
+Bonne utilisation.
